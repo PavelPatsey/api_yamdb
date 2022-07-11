@@ -94,7 +94,6 @@ _Пацей П._
 _github: https://github.com/PavelPatsey_
 
 _Рябов В.С._
-_email: ryabov.v.s@yandex.ru_
 _github: https://github.com/bigbang13_
 
 _Комиссаров А._
