@@ -86,3 +86,16 @@ python manage.py runserver
 Документация после запуска доступна по адресу ```http://127.0.0.1:8000/redoc/```.
 
 В проекте реализована эмуляция почтового сервера, письма сохраняются в папке /sent_emails в головной директории проекта.
+
+
+## Авторы
+
+_Пацей П._
+_github: https://github.com/PavelPatsey_
+
+_Рябов В.С._
+_email: ryabov.v.s@yandex.ru_
+_github: https://github.com/bigbang13_
+
+_Комиссаров А._
+_github: https://github.com/mrsalbey_
